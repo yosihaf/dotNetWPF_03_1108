@@ -1,0 +1,20 @@
+C:\Users\AAA\Desktop\dotNetWPF_03_1108\dotNetWPF_03_1108\bin\Debug\dotNetWPF_03_1108.exe.config
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\bin\Debug\dotNetWPF_03_1108.exe.config
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\bin\Debug\dotNetWPF_03_1108.exe
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\bin\Debug\dotNetWPF_03_1108.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.csprojResolveAssemblyReference.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\MainWindow.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\PrinterUserControl.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\App.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108_MarkupCompile.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108_MarkupCompile.lref
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\MainWindow.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\PrinterUserControl.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.g.resources
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.Properties.Resources.resources
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.csproj.GenerateResource.Cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.exe
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.pdb
+C:\Users\AAA\dotNetWPF_03_1108\dotNetWPF_03_1108\bin\Debug\dotNetWPF_03_1108.exe.config
+C:\Users\AAA\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.exe
+C:\Users\AAA\dotNetWPF_03_1108\dotNetWPF_03_1108\obj\Debug\dotNetWPF_03_1108.pdb
